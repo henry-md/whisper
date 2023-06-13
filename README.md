@@ -1,4 +1,3 @@
-# TESTING FORK
 # Whisper
 
 [[Blog]](https://openai.com/blog/whisper)
